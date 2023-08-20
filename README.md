@@ -1,3 +1,14 @@
+
+               A Probabilistic Delta Debugging Approach for Abstract Syntax Trees (T-PDD)
+                                                --- an instance of delta debugging
+                                
+              Guancheng Wang, Yiqian Wu, Qihao Zhu,  Yingfei Xiong, Xin Zhang and Lu Zhang
+             
+                  Department of Computer Science and Technology, Peking University
+                     College of Intelligence and Computing, Tianjin University
+                                       
+
+Please send issues and suggestions to <guancheng.wang@pku.edu.cn>.
 # T-PDD
 
 This repo is currently being used for the peer-review phase of ISSRE 2023. As mentioned in Section IV-B1, the detailed results of each subject in RQ1 is presented in file *RQ1-Detailed_Results.xlsx*. Once the paper is accepted, we plan to publish a Dockerfile to facilitate the reproduction of our evaluation. The Dockerfile will contain all the necessary instructions and dependencies to set up the environment and execute the evaluation process.
