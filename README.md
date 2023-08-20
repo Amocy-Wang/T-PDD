@@ -2,7 +2,7 @@
                A Probabilistic Delta Debugging Approach for Abstract Syntax Trees (T-PDD)
                                                 --- an instance of delta debugging
                                 
-              Guancheng Wang, Yiqian Wu, Qihao Zhu,  Yingfei Xiong, Xin Zhang and Lu Zhang
+              Guancheng Wang, Yiqian Wu, Qihao Zhu, Yingfei Xiong, Xin Zhang and Lu Zhang
              
                   Department of Computer Science and Technology, Peking University
                      College of Intelligence and Computing, Tianjin University
