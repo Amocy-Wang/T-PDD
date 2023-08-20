@@ -4,8 +4,7 @@
                                 
               Guancheng Wang, Yiqian Wu, Qihao Zhu, Yingfei Xiong, Xin Zhang and Lu Zhang
              
-                  Department of Computer Science and Technology, Peking University
-                     College of Intelligence and Computing, Tianjin University
+                                            Peking University
                                        
 
 Please send issues and suggestions to <guancheng.wang@pku.edu.cn>.
