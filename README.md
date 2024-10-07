@@ -10,7 +10,7 @@
 Please send issues and suggestions to <guancheng.wang@pku.edu.cn>.
 # T-PDD
 
-This repo is used as the artifact of our ISSRE 2023 paper. As mentioned in Section IV-B1, the detailed results of each subject in RQ1 is presented in file *RQ1-Detailed_Results.xlsx*. Once the paper is accepted, we plan to publish a Dockerfile to facilitate the reproduction of our evaluation. The Dockerfile will contain all the necessary instructions and dependencies to set up the environment and execute the evaluation process.
+This repo is used as the artifact of our ISSRE 2023 paper. As mentioned in Section IV-B1, the detailed results of each subject in RQ1 is presented in file *RQ1-Detailed_Results.xlsx*. We plan to publish a Dockerfile to facilitate the reproduction of our evaluation. The Dockerfile will contain all the necessary instructions and dependencies to set up the environment and execute the evaluation process.
 
 Included in this repository are the following:
 - RQ1-Detailed_Results.xlsx: Detailed results of RQ1 in our draft
